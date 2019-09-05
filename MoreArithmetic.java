@@ -32,4 +32,4 @@ import java.util.Scanner;
 			System.out.printf(" \nsmallest is %d\n", num3);
 	}
      }
-}
+}aaaaaa
